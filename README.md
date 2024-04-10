@@ -28,8 +28,8 @@ Passionate about design and technology, some of my hobbies are games, reading, w
 </div>
 
 
-<div style="padding:10px; width:300px">
-<img align="center" style="width:100%"  alt="Boby" src="https://abimael.com.br/boby-mascote.png">
+<div style="padding:10px">
+<img align="center"  alt="Boby" src="https://abimael.com.br/boby-mascote.png">
 </div>
 
 </div>
