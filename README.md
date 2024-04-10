@@ -7,7 +7,7 @@ Front-end developer from São Paulo, Brazil, postgraduate in Software Developmen
 Passionate about design and technology, some of my hobbies are games, reading, watching and photographing
 
 
-## Some of my skills
+### Some of my skills
 <div style="display: inline_block">
 <img align="center" style="width:25px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img align="center" style="width:25px" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
@@ -19,7 +19,7 @@ Passionate about design and technology, some of my hobbies are games, reading, w
 <img align="center" style="width:25px" alt="html5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 </div>
 
-## Connect with me
+### Connect with me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abimael-s-silva/)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.abimael.com.br)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.linkedin.com/in/abimael-s-silva/)
