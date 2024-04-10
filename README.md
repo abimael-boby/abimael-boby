@@ -1,9 +1,8 @@
 
 # Abimael Silva | Boby✨
 
-<div style="display: flex; flex-direction: row; align-content: flex-start;">
-<div>
 
+<img  align="right"  alt="Boby" src="https://abimael.com.br/boby-mascote.png">
 Front-end developer from São Paulo, Brazil, postgraduate in Software Development with Agile Methodology. I have experience with Javascript, Typescript, HTML 5, CSS3, Angular, UX and other technologies.
 Passionate about design and technology, some of my hobbies are games, reading, watching and photographing
 
@@ -25,14 +24,12 @@ Passionate about design and technology, some of my hobbies are games, reading, w
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.abimael.com.br)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.linkedin.com/in/abimael-s-silva/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.linkedin.com/in/abimael-s-silva/)
-</div>
 
 
-<div style="padding:10px">
-<img align="center"  alt="Boby" src="https://abimael.com.br/boby-mascote.png">
-</div>
 
-</div>
+
+
+
 
 ### GitHub Stats
 
