@@ -1,5 +1,5 @@
 
-✨ # Abimael Silva | Boby
+✨ #Abimael Silva | Boby
 
 Front-end developer from São Paulo, Brazil, postgraduate in Software Development with Agile Methodology. I have experience with Javascript, Typescript, HTML 5, CSS3, Angular, UX and other technologies.
 Passionate about design and technology, some of my hobbies are games, reading, watching and photographing
